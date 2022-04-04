@@ -18,10 +18,10 @@ export const Items = [
     description:
       'Steak 130g , 2x Cheddar , Salade , Tomate , Oignon , Cornichons',
     isOff: false,
-    productImage: 'https://www.pngmart.com/files/5/Hamburger-PNG-Transparent-Image.png',
+    productImage: 'https://www.emiratescoffee.fr/wp-content/uploads/2020/08/bg-shak.png',
     isAvailable: true,
     productImageList: [
-      'https://www.pngmart.com/files/5/Hamburger-PNG-Transparent-Image.png',
+      'https://www.emiratescoffee.fr/wp-content/uploads/2020/08/bg-shak.png',
     ],
   },
   {
@@ -32,10 +32,10 @@ export const Items = [
     description:
       'Steak 180g , Ouef , Bacon , Cheddar , Salade , Tomate , Oignon , Cornichons',
     isOff: false,
-    productImage: 'https://www.pngmart.com/files/5/Hamburger-PNG-Transparent-Image.png',
+    productImage: 'https://www.emiratescoffee.fr/wp-content/uploads/2020/08/bg-smshak.png',
     isAvailable: true,
     productImageList: [
-      'https://www.pngmart.com/files/5/Hamburger-PNG-Transparent-Image.png',
+      'https://www.emiratescoffee.fr/wp-content/uploads/2020/08/bg-smshak.png',
     ],
   },
   {
@@ -46,10 +46,10 @@ export const Items = [
     description:
       'Poulet Panée , Ouef , Cheddar , Salade , Tomate , Oignon , Cornichons',
     isOff: false,
-    productImage: 'https://www.pngmart.com/files/5/Hamburger-PNG-Transparent-Image.png',
+    productImage: 'https://www.emiratescoffee.fr/wp-content/uploads/2020/08/br-chic.png',
     isAvailable: true,
     productImageList: [
-      'https://www.pngmart.com/files/5/Hamburger-PNG-Transparent-Image.png',
+      'https://www.emiratescoffee.fr/wp-content/uploads/2020/08/br-chic.png',
     ],
   },
   {
@@ -60,10 +60,10 @@ export const Items = [
     description:
       'Steak 180g , Chevre , Miel, Cheddar , Salade , Tomate , Oignon , Cornichons',
     isOff: false,
-    productImage: 'https://www.pngmart.com/files/5/Hamburger-PNG-Transparent-Image.png',
+    productImage: 'https://www.emiratescoffee.fr/wp-content/uploads/2020/08/bg-french.png',
     isAvailable: true,
     productImageList: [
-      'https://www.pngmart.com/files/5/Hamburger-PNG-Transparent-Image.png',
+      'https://www.emiratescoffee.fr/wp-content/uploads/2020/08/bg-french.png',
     ],
   },
   {
@@ -72,7 +72,7 @@ export const Items = [
     productName: 'Mega Kim',
     productPrice: 8.9,
     description:
-      'The unbeatable boAt signature sound shines through no matter what are you playing courtesy its 10mm drivers.',
+    'Steak 130g , Dinde , Oeuf , Cheddar , Salade , Tomate',
     isOff: false,
     productImage: 'https://www.emiratescoffee.fr/wp-content/uploads/2020/08/s-steak.png',
     isAvailable: true,
@@ -100,12 +100,12 @@ export const Items = [
     productName: 'Royal Kim',
     productPrice: 8.9,
     description:
-      'One Touch Control & Voice Assistant: With one multifunction button, you can play/pause, previous/next track and answer/hang-up calls.Voice assistant function lets you access siri/Google Assistant',
+      'Steak 130g , Saucisson , Galette pomme de terre , Cheddar , Salade , Tomate',
     isOff: false,
-    productImage: 'https://www.lepicuroi.fr/wp-content/uploads/2019/03/sandwich-escalope-600x600.png',
+    productImage: 'https://www.emiratescoffee.fr/wp-content/uploads/2020/08/s-mix.png',
     isAvailable: true,
     productImageList: [
-      'https://www.lepicuroi.fr/wp-content/uploads/2019/03/sandwich-escalope-600x600.png',
+      'https://www.emiratescoffee.fr/wp-content/uploads/2020/08/s-mix.png',
     ],
   },
   {
