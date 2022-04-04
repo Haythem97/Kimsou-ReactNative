@@ -7,6 +7,8 @@ import {
 } from 'react-native';
 import { COLOURS, Items } from '../../database/Database';
 import {useNavigation} from '@react-navigation/native';
+import styled from 'styled-components';
+
 
 
 const ProductCard = ({data}) => {
@@ -44,7 +46,7 @@ const Textt2 = styled.Text`
       fontSize: 12px;
       color: black;
       fontWeight: bold;
-      letterSpacing: 1;
+      letterSpacing: 1px;
 `
 const Img = styled.Image`
       width: 100%;
@@ -57,7 +59,7 @@ const Touch = styled.TouchableOpacity`
 `
 const View1 = styled.View`
       width: 100%;
-      height: 100PX.
+      height: 100px;
       borderRadius: 10px;
       backgroundColor: #f2f2f2;
       position: relative;
