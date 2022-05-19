@@ -3,9 +3,9 @@
 Android
 <p style="margin:20%;display:inline-block;">
 
-  <img style="padding:20%;" src="Images/Home.jpg" width="350" title="hover text">
-  <img style="margin:20%;" src="Images/Produits.jpg" width="350" title="hover text">
-  <img style="margin:20%;" src="Images/Produit.id.jpg" width="350" title="hover text">
-  <img style="margin:20%;" src="Images/Panier..jpg" width="350" title="hover text">
+  <img src="Images/Home.jpg" padding="10" width="350" title="hover text">
+  <img src="Images/Produits.jpg" width="350" title="hover text">
+  <img src="Images/Produit.id.jpg" width="350" title="hover text">
+  <img src="Images/Panier..jpg" width="350" title="hover text">
 
 </p>
