@@ -1,7 +1,7 @@
 1) Npm install
 2) npx react-native run-android
 Android
-<p style="display:inline-block;">
+<p style="display:inline-block;text-align:center">
  
    <img src="Images/Home.jpg" padding="40" width="350" title="hover text">
   .. <img src="Images/Produits.jpg" width="350" title="hover text"><br><br><br>
