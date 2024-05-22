@@ -1,6 +1,18 @@
-1) Npm install
-2) npx react-native run-android
-Android
+# Kimsou app
+
+This is the Kimsou app to place your order from our restaurant.
+
+### Install dependencies
+
+```
+npm install
+```
+
+### Run Server
+
+```
+npx react-native run-android
+```
 <p style="display:inline-block;">
    <img src="Images/Home.jpg" width="350" title="hover text">
   . . . <img src="Images/Produits.jpg" width="350" title="hover text"><br><br><br>
